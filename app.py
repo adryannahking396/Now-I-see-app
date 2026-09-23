@@ -20,6 +20,11 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+st.write(
+    "Now I See is a color accessibility tool that helps users identify "
+    "colors in images and understand how colors may appear with different "
+    "types of color vision deficiency."
+)
 
 # ============================================================
 # SESSION STATE

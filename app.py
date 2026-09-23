@@ -14,7 +14,7 @@ from streamlit_image_coordinates import streamlit_image_coordinates
 # ============================================================
 
 st.set_page_config(
-    page_title="Now I See",
+    page_title="Now I See — Color Accessibility Tool",
     page_icon="images/star.png",
     layout="wide",
     initial_sidebar_state="expanded",
